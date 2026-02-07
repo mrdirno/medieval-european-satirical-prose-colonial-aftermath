@@ -1,0 +1,77 @@
+{
+  "book_id": "medieval-european-satirical-prose-colonial-aftermath",
+  "title": "The Middenburg Improvement",
+  "tagline": "In a conquered village, the first casualty is its smell, as a new order arrives to cleanse a world it cannot comprehend.",
+  "target_words": 75127,
+  "actual_words": 75127,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Cultural Erasure and 'Improvement'",
+    "The Violence of Order and Cleanliness",
+    "The Bureaucracy of Colonialism",
+    "The Resilience of Lived Experience"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Scent of Seven Generations",
+      "words": 6260
+    },
+    {
+      "ch": 2,
+      "title": "A Cathedral of Soap and Suns",
+      "words": 6260
+    },
+    {
+      "ch": 3,
+      "title": "The Sluggish Creek of Progress",
+      "words": 6260
+    },
+    {
+      "ch": 4,
+      "title": "The Silence of a Held Breath",
+      "words": 6260
+    },
+    {
+      "ch": 5,
+      "title": "The Map of a Vanishing World",
+      "words": 6260
+    },
+    {
+      "ch": 6,
+      "title": "The Sound of Life Improperly Paused",
+      "words": 6260
+    },
+    {
+      "ch": 7,
+      "title": "The Conqueror's Return",
+      "words": 6260
+    },
+    {
+      "ch": 8,
+      "title": "A Shroud of Terrible, Clean Silence",
+      "words": 6260
+    },
+    {
+      "ch": 9,
+      "title": "The Cold Wedge of Order",
+      "words": 6260
+    },
+    {
+      "ch": 10,
+      "title": "A Ledger Written in Flesh",
+      "words": 6260
+    },
+    {
+      "ch": 11,
+      "title": "The Sum Settled in Blood",
+      "words": 6260
+    },
+    {
+      "ch": 12,
+      "title": "Beneath the Wet Wool",
+      "words": 6260
+    }
+  ]
+}
